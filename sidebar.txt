@@ -9,17 +9,12 @@
 
   * [[lgg:obs|Open Bible Stories (lgg)]]
 
-
 **Downloads**
 
 All content for this namespace is available in the [[https://github.com/Door43/d43-lgg|d43-lgg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lgg/archive/master.zip|d43-lgg.zip]]
 
 **Recent Changes**
 {{changes>ns = lgg}}
-
-**Latest Status**
-{{page>en:uwadmin:lgg:obs:status}}
-
 
 **Language Information**
 
@@ -29,5 +24,3 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
   * [[lgg:obs|Open Bible Stories (lgg)]]
 
-**Latest OBS Status**
-{{page>en:uwadmin:lgg:obs:status}}
